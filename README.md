@@ -1,1 +1,1 @@
-# Ping_pong_game
+In this file you can find a Ping pong game/ It it was created by using the application Algoritmika,programming language: Python, Python library: PyGame. It is  the first vesion of the game.  Other versions willappear soon. You can rule your one racket using Arrows: up and down. And another racket using buttons: 'W' and 'S'.
